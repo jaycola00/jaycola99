@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaycola99
-- 👀 I’m interested in Python, Databases, server and everything about computer.
-- 🌱 I’m currently learning MySQL, network security.
+- 👀 I’m interested in Android, Python, C++ and everything about computer.
+- 🌱 I’m currently learning Android!!!
 - 💞️ I’m looking to collaborate on some programs.
 - 📫 How to reach me ...
 QQ: 77912003
