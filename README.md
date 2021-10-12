@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 QQ: 77912003
 WeChat: jaycola99
-Twitter: jaycola99
+Email:jaycola99@gmail.com
 <!---
-Jay030920/Jay030920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jay0920/jay0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
